@@ -7,7 +7,6 @@ export default function Home() {
       <div className={styles.description}>
         <h1>titulo Editado inicio do projeto</h1>
       </div>
-
       <div className={styles.center}>
         <div className={styles.image}>
           Imagem 
@@ -16,8 +15,6 @@ export default function Home() {
           descrição da image
         </div>
       </div>
-
-
     </main>
   )
 }
