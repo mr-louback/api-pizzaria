@@ -5,25 +5,15 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>
-          paragrafo main
-        </p>
-        <div>
-          paragrafo 
-        </div>
+        <h1>titulo Editado inicio do projeto</h1>
       </div>
 
       <div className={styles.center}>
         <div className={styles.image}>
-          paragrafo center
+          Imagem 
         </div>
         <div className={styles.description}>
-          <p>
-            paragrafo center
-          </p>
-          <div>
-            paragrafo
-          </div>
+          descrição da image
         </div>
       </div>
 
